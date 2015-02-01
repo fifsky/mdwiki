@@ -7,6 +7,6 @@
   * [子目录](api/user/index.md)
   - - - -
   * # 其它
-  * [其它分类](other/test.md)
+  * [其它分类](other/other.md)
 
 [README](README.md)
