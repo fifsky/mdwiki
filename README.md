@@ -8,3 +8,5 @@
 See https://github.com/chjj/marked
 
 支持语法高亮和公式请参考content/index.md文件
+
+如果你需要定制化，你可以参看源码，原理并不复杂，你可以很容易的修改
